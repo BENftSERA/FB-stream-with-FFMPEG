@@ -1,6 +1,8 @@
 # TUTORIAL
 Install Nodejs
 
+npm install
+
 Install FFMPEG ( npm install fluent-ffmpeg ) 
 
 Video sama file harus jadi satu

@@ -6,4 +6,4 @@ Video sama file harus jadi satu
 
 How to run? $node FBLIVE
 
-paste FTMP DAN STREAMKEY SEKALIGUS NO SPASI
+paste RTMP DAN STREAMKEY SEKALIGUS NO SPASI
